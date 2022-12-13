@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTA0ODA5NjE4OTcwODUwMDk5Mg.GQpjKY.HsoKw7iqHGn4omT37u4LqApA1mx23aZiC7ryFc",
+    "prefix": ".",
     "ownerIDS": [
-        "442355791412854784"
+        "90575242589655040"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
@@ -23,8 +23,8 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "27803c1b5cdc4f788e5f35855c1c0793",
+        "clientID": "d45f4b7f09454744871242d3f365da3b"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
